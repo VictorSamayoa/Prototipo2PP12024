@@ -34,11 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/catalogo.h" />
 		<Unit filename="include/menuP.h" />
-		<Unit filename="include/verificacionU.h" />
+		<Unit filename="include/verifiacionU.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/catalogo.cpp" />
 		<Unit filename="src/menuP.cpp" />
-		<Unit filename="src/verificacionU.cpp" />
+		<Unit filename="src/verifiacionU.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

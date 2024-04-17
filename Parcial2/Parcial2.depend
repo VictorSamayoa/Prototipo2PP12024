@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1713370821 source:c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\src\menup.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1713369708 source:c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\main.cpp
+	<iostream>
+	<cstdlib>
+	"verifiacionU.h"
+
+1713371257 c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\include\verifiacionu.h
+
+1713373334 source:c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\src\verifiacionu.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"menuP.h"
+	"catalogo.h"
+
+1713370821 c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\include\menup.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1713373651 source:c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\src\catalogo.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"verifiacionU.h"
+
+1713373661 c:\users\josue\onedrive\escritorio\prototipo2pp12024\parcial2\include\catalogo.h
+
